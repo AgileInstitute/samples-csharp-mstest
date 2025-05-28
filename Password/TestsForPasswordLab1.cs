@@ -3,7 +3,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace Password
 { 
     [TestClass]
-    public class Lab1Tests
+    public class TestsForPasswordLab1
     {
         [TestMethod]
         public void RidiculousPasswordIsRidiculous()
